@@ -1,5 +1,4 @@
 import paho.mqtt.client as mqtt #import library
-import pygame
 import subprocess
 import os
 import json
